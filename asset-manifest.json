@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Geeks-Garage/static/css/main.9db1f1fb.chunk.css",
+    "main.js": "/Geeks-Garage/static/js/main.b97bdb05.chunk.js",
+    "main.js.map": "/Geeks-Garage/static/js/main.b97bdb05.chunk.js.map",
+    "runtime-main.js": "/Geeks-Garage/static/js/runtime-main.dbcdf1fa.js",
+    "runtime-main.js.map": "/Geeks-Garage/static/js/runtime-main.dbcdf1fa.js.map",
+    "static/js/2.debe7d96.chunk.js": "/Geeks-Garage/static/js/2.debe7d96.chunk.js",
+    "static/js/2.debe7d96.chunk.js.map": "/Geeks-Garage/static/js/2.debe7d96.chunk.js.map",
+    "index.html": "/Geeks-Garage/index.html",
+    "static/css/main.9db1f1fb.chunk.css.map": "/Geeks-Garage/static/css/main.9db1f1fb.chunk.css.map",
+    "static/js/2.debe7d96.chunk.js.LICENSE.txt": "/Geeks-Garage/static/js/2.debe7d96.chunk.js.LICENSE.txt",
+    "static/media/banner.6bb718ae.jpg": "/Geeks-Garage/static/media/banner.6bb718ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbcdf1fa.js",
+    "static/js/2.debe7d96.chunk.js",
+    "static/css/main.9db1f1fb.chunk.css",
+    "static/js/main.b97bdb05.chunk.js"
+  ]
+}
